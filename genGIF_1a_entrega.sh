@@ -3,7 +3,7 @@
 #http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
 
 #Autor Jônathan Elias
-#Script para converter todos os videos da pasta atual para GIFs otimizados para o projeto LIBREASOffice
+#Script para converter todos os videos da pasta atual para GIFs otimizados para o projeto LIBRASOffice
 
 dimensao_corte="1000:1000" # largura:altura (pixels)
 posicao_inicial_corte="50:150" # pixels a partir da esquerda : pixels a partir do topo
